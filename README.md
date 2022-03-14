@@ -5,7 +5,7 @@ A NFT (ERC721) contract that can be upgraded using OpenZeppelin UUPS proxy patte
 ## Installation
 
 ```console
-git clone https://github.com/ismaventuras/upgradeableNFT.git .
+git clone https://github.com/ismaventuras/Upgradeable-NFT.git .
 npm install
 ```
 
